@@ -1,0 +1,17 @@
+openai
+vosk
+sounddevice
+pyttsx3
+psutil
+pyautogui
+pyperclip
+pycaw
+comtypes
+pystray
+pillow
+pygetwindow
+pywinauto
+send2trash
+faster-whisper
+numpy
+edge-tts
